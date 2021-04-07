@@ -1,2 +1,5 @@
 # 2020 Rough Practice Repo
-Stock Market Data Science Project: Xavier &amp; Alex
+
+A hub for adding practice code in a loose, disorganized manner.
+
+Some copies of other's code, some original code. 
