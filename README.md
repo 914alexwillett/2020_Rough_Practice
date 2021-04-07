@@ -1,4 +1,2 @@
-# The Secret Repository
+# 2020 Rough Practice Repo
 Stock Market Data Science Project: Xavier &amp; Alex
-
-Here is where we would write something
